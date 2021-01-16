@@ -29,3 +29,13 @@
 **Thoughts:** I still haven't got to the part of TOD where I can start coding. That's why I decided to work on another simple project where I created a pomodoro application that counts down from 25 minutes plays forest sounds when a button is clicked. Also deployed it on heroku like yesterday. At first, I struggled online a bit with finding answers to my questions on how to implement a countdown function and the ones I found, I didn't quite understand. I ended up implementing my own short function. It may not be much to look at but it does the job, so I am happy with it.
 
 **Link to work:** [Pomodoro Timer](https://pomodoro-timer-q.herokuapp.com/)
+
+### Day 3: January 16, 2021
+
+**Today's Progress**: 
+* 40% done on TOD Foundations Path.
+* Created a bouncing balls application following a tutorial from Firefox.
+
+**Thoughts:** Even though I couldn't quite understand how it all works at first, Firefox does a good job at explaining what each line of code does. This mini-project also made me aware of my lack of understanding of mathematics and how it could affect my coding. I think it would have taken me a great deal amount of time to come up with the solution. Regardless, I learned many new things about animation with JS.
+
+**Link to work:** [Bouncing Balls](https://bouncing-ball-s.herokuapp.com/)
