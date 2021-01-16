@@ -34,7 +34,7 @@
 
 **Today's Progress**: 
 * 40% done on TOD Foundations Path.
-* Created a bouncing balls application following a tutorial from Firefox.
+* Created a bouncing balls application following a tutorial from Mozilla.
 
 **Thoughts:** Even though I couldn't quite understand how it all works at first, Firefox does a good job at explaining what each line of code does. This mini-project also made me aware of my lack of understanding of mathematics and how it could affect my coding. I think it would have taken me a great deal amount of time to come up with the solution. Regardless, I learned many new things about animation with JS.
 
