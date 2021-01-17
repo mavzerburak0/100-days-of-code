@@ -39,3 +39,13 @@
 **Thoughts:** Even though I couldn't quite understand how it all works at first, Firefox does a good job at explaining what each line of code does. This mini-project also made me aware of my lack of understanding of mathematics and how it could affect my coding. I think it would have taken me a great deal amount of time to come up with the solution. Regardless, I learned many new things about animation with JS.
 
 **Link to work:** [Bouncing Balls](https://bouncing-ball-s.herokuapp.com/)
+
+### Day 4: January 17, 2021
+
+**Today's Progress**: 
+* 43% done on TOD Foundations Path.
+* Finished Basic HTML and HTML 5 & Basic CSS courses on freecodecamp.org
+
+**Thoughts:** Today wasn't a very productive day coding-wise. Instead of creating a new project like I did for the last 3 days, I decided to spend it finishing interactive courses on freeCodeCamp. I learned new things about HTML and CSS that will be quite useful. Hoping to get back to simple coding projects tomorrow.   
+
+**Link to work:** None
