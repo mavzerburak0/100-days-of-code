@@ -49,3 +49,12 @@
 **Thoughts:** Today wasn't a very productive day coding-wise. Instead of creating a new project like I did for the last 3 days, I decided to spend it finishing interactive courses on freeCodeCamp. I learned new things about HTML and CSS that will be quite useful. Hoping to get back to simple coding projects tomorrow.   
 
 **Link to work:** None
+
+### Day 5: January 18, 2021
+
+**Today's Progress**: 
+* Finished an HTML & CSS project "Tribute Page" for freeCodeCamp
+
+**Thoughts:** This project taught me about many HTML5 tags I haven't even heard of before like blockquote, cite etc. It was a fun and rather easy project but I am glad I at least got something done.
+
+**Link to work:** [Tesla Tribute Page](https://tribute-page-tesla.herokuapp.com/)
