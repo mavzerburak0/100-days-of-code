@@ -58,3 +58,13 @@
 **Thoughts:** This project taught me about many HTML5 tags I haven't even heard of before like blockquote, cite etc. It was a fun and rather easy project but I am glad I at least got something done.
 
 **Link to work:** [Tesla Tribute Page](https://tribute-page-tesla.herokuapp.com/)
+
+### Day 6: January 19, 2021
+
+**Today's Progress**: 
+* 52% done on Applied Visual Design on freeCodeCamp.org
+* Created a simple Sun, Earth and Moon animation following MDN tutorial
+
+**Thoughts:** I would like to eventually improve on today's project to include all the members of the solar system. I learned a lot about CSS and color theory. It feels nice to be on track with this challenge seeing some people already giving up after 2-3 days.
+
+**Link to work:** [Sun-Earth-Moon](https://sun-earth-moon.herokuapp.com/)
