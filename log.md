@@ -68,3 +68,13 @@
 **Thoughts:** I would like to eventually improve on today's project to include all the members of the solar system. I learned a lot about CSS and color theory. It feels nice to be on track with this challenge seeing some people already giving up after 2-3 days.
 
 **Link to work:** [Sun-Earth-Moon](https://sun-earth-moon.herokuapp.com/)
+
+### Day 7: January 20, 2021
+
+**Today's Progress**: 
+* 75% done on Applied Visual Design on freeCodeCamp.org
+* Started the 2nd project of Responsive Web Design certification on freeCodeCamp
+
+**Thoughts:** Today wasn't the most productive as I was getting bored from all the details in the applied visual design course. I still managed to complete several more lessons but I feel like I don't quite read to understand. Most of the time I was just doing the task and skimming through reading part. Nevertheless, I managed to get started on the survey form project that I need to complete to get a responsive web design certificate.
+
+**Link to work:** None
