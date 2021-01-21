@@ -78,3 +78,13 @@
 **Thoughts:** Today wasn't the most productive as I was getting bored from all the details in the applied visual design course. I still managed to complete several more lessons but I feel like I don't quite read to understand. Most of the time I was just doing the task and skimming through reading part. Nevertheless, I managed to get started on the survey form project that I need to complete to get a responsive web design certificate.
 
 **Link to work:** None
+
+### Day 8: January 21, 2021
+
+**Today's Progress**: 
+* Finished Applied Visual Design on freeCodeCamp.org
+* Practiced what I learned from Applied Visual Design to a simple drawing / animation project using HTML/CSS
+
+**Thoughts:** I finally pulled through and finished the applied visual design course. At the end, it was fun and I came up with a simple project to use what I learned. I am happy with the things I learned, especially how powerful CSS is. The project can be improved to include an igloo and maybe a snowing effect. I hope to get back to it later.
+
+**Link to work:** [Penguin Drawing](https://penguin-drawing.herokuapp.com/)
