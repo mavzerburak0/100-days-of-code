@@ -88,3 +88,12 @@
 **Thoughts:** I finally pulled through and finished the applied visual design course. At the end, it was fun and I came up with a simple project to use what I learned. I am happy with the things I learned, especially how powerful CSS is. The project can be improved to include an igloo and maybe a snowing effect. I hope to get back to it later.
 
 **Link to work:** [Penguin Drawing](https://penguin-drawing.herokuapp.com/)
+
+### Day 9: January 22, 2021
+
+**Today's Progress**: 
+* Finished Applied Accessibility on freeCodeCamp.org
+
+**Thoughts:** I didn't have much time today to practice a lot of coding (except when I code for work). However, I managed to finish the applied accessibility course on freeCodeCamp. I will try to find an interesting project for the weekend to practice on including some JavaScript. One important thing these courses taught me is that HTML and CSS has come a very long way. You can make very good-looking website without writing a line of JS.
+
+**Link to work:** None
