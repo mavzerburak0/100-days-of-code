@@ -97,3 +97,13 @@
 **Thoughts:** I didn't have much time today to practice a lot of coding (except when I code for work). However, I managed to finish the applied accessibility course on freeCodeCamp. I will try to find an interesting project for the weekend to practice on including some JavaScript. One important thing these courses taught me is that HTML and CSS has come a very long way. You can make very good-looking website without writing a line of JS.
 
 **Link to work:** None
+
+### Day 10: January 23, 2021
+
+**Today's Progress**: 
+* Finished Responsive Web Design Principles course on freeCodeCamp.org
+* Improved on the Survey Form project
+
+**Thoughts:** I know that it is important to learn about HTML and CSS, but I would like to already start playing with JS. Although I learn a lot during these courses, I just feel like it is not really coding since HTML and CSS are not programming languages. I am almost done with the Responsive Web Design certification path on freecodecamp and will get to finally continue The Odin Project soon.
+
+**Link to work:** [Survey Form](https://survey-form-p.herokuapp.com/)
