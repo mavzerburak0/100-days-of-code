@@ -107,3 +107,14 @@
 **Thoughts:** I know that it is important to learn about HTML and CSS, but I would like to already start playing with JS. Although I learn a lot during these courses, I just feel like it is not really coding since HTML and CSS are not programming languages. I am almost done with the Responsive Web Design certification path on freecodecamp and will get to finally continue The Odin Project soon.
 
 **Link to work:** [Survey Form](https://survey-form-p.herokuapp.com/)
+
+### Day 11: January 24, 2021
+
+**Today's Progress**: 
+* Finished CSS Flexbox and CSS Grid courses on freeCodeCamp.org
+* Submitted the first two (previously finished) projects for the certification
+* Started the 3rd project on the list: Product Landing Page
+
+**Thoughts:** I got a lot done today. First, finishing all the courses for Responsive Web Design certification and then creating the first two projects on codepen.io (initially they were only on my GitHub) and starting the 3rd project. I am not yet finished with the 3rd project but I plan on finishing it tomorrow to move on to 4th and 5th projects to get the certification. I feel like I have given too much of time and effort to not have something that shows my accomplishment. So I am determined to finish the whole course. 
+
+**Link to work:** None
