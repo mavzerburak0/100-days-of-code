@@ -118,3 +118,12 @@
 **Thoughts:** I got a lot done today. First, finishing all the courses for Responsive Web Design certification and then creating the first two projects on codepen.io (initially they were only on my GitHub) and starting the 3rd project. I am not yet finished with the 3rd project but I plan on finishing it tomorrow to move on to 4th and 5th projects to get the certification. I feel like I have given too much of time and effort to not have something that shows my accomplishment. So I am determined to finish the whole course. 
 
 **Link to work:** None
+
+### Day 12: January 25, 2021
+
+**Today's Progress**: 
+* Continued improving my 3rd project for Responsive Web Design Certification
+
+**Thoughts:** I thought I could finish the project today but because I felt really tired and unmotivated, I could only improve a few things here and there. But still I am happy that I at least worked on it even a little bit.
+
+**Link to work:** None
