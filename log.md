@@ -127,3 +127,12 @@
 **Thoughts:** I thought I could finish the project today but because I felt really tired and unmotivated, I could only improve a few things here and there. But still I am happy that I at least worked on it even a little bit.
 
 **Link to work:** None
+
+### Day 13: January 26, 2021
+
+**Today's Progress**: 
+* Finished my 3rd project for freeCodeCamp RWD certification
+
+**Thoughts:** I finally pulled through and finished the 3rd project for the Responsive Web Design certification. It is not perfect but it looks similar to the example page. I also discovered that I can write CSS and see the changes in real-time from developer tools in the browser. I am using live server in VSCode but I always have to switch back and forth to see the changes take effect. Also, I almost gave up today because I was getting bored with the project but I kept on and actually enjoyed the process. Deploying an app on Heroku after 2 not-very-productive days feels great.
+
+**Link to work:** [Wooden Toys Landing Page](https://wooden-toys-landing.herokuapp.com/)
