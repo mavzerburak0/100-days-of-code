@@ -136,3 +136,13 @@
 **Thoughts:** I finally pulled through and finished the 3rd project for the Responsive Web Design certification. It is not perfect but it looks similar to the example page. I also discovered that I can write CSS and see the changes in real-time from developer tools in the browser. I am using live server in VSCode but I always have to switch back and forth to see the changes take effect. Also, I almost gave up today because I was getting bored with the project but I kept on and actually enjoyed the process. Deploying an app on Heroku after 2 not-very-productive days feels great.
 
 **Link to work:** [Wooden Toys Landing Page](https://wooden-toys-landing.herokuapp.com/)
+
+
+### Day 14: January 27, 2021
+
+**Today's Progress**: 
+* Made progress on my 4th project for freeCodeCamp RWD certification
+
+**Thoughts:** I feel more comfortable working with CSS now that I can write it inside the browser and then copy and paste the changes whenever I make progress. Projects are coming along nicely. I deploy all of them to Heroku just to showcase it maybe someday.
+
+**Link to work:** [Docker Documentation Clone](https://technical-docs-page.herokuapp.com/)
