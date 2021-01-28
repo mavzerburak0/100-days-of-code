@@ -146,3 +146,13 @@
 **Thoughts:** I feel more comfortable working with CSS now that I can write it inside the browser and then copy and paste the changes whenever I make progress. Projects are coming along nicely. I deploy all of them to Heroku just to showcase it maybe someday.
 
 **Link to work:** [Docker Documentation Clone](https://technical-docs-page.herokuapp.com/)
+
+### Day 15: January 28, 2021
+
+**Today's Progress**: 
+* Added responsiveness to yesterday's project
+* Started my 5th and final project for freeCodeCamp RWD certification
+
+**Thoughts:** I really enjoy playing around with CSS and finding out more about what can be done with it. I think this has been the most productive and fun day overall. I started looking at what other people have been doing with HTML and CSS and copying it into my own websites and playing around to see how they actually work. Good thing is I understand why and how they use certain things. I plan on finishing my last project tomorrow and submitting all of them to get my certification.
+
+**Link to work:** None
