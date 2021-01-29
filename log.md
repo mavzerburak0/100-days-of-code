@@ -156,3 +156,12 @@
 **Thoughts:** I really enjoy playing around with CSS and finding out more about what can be done with it. I think this has been the most productive and fun day overall. I started looking at what other people have been doing with HTML and CSS and copying it into my own websites and playing around to see how they actually work. Good thing is I understand why and how they use certain things. I plan on finishing my last project tomorrow and submitting all of them to get my certification.
 
 **Link to work:** None
+
+### Day 16: January 29, 2021
+
+**Today's Progress**: 
+* Improved on my 5th and final project for freeCodeCamp RWD certification
+
+**Thoughts:** Working on my projects is becoming more and more enjoyable. I am currently creating my web development personal portfolio. I was able to make it fully responsive without the help of bootstrap or similar. I know that it is practical to use it and it would make my life much easier but this is a learning experience and I enjoy it more this way for now. I will most likely work with bootstrap in the future. Maybe I am getting too stuck with details, trying to make it perfect. I thought I could finish it today but there's still the contact section left. I will hopefully have more time tomorrow.
+
+**Link to work:** None
