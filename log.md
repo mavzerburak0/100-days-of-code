@@ -165,3 +165,13 @@
 **Thoughts:** Working on my projects is becoming more and more enjoyable. I am currently creating my web development personal portfolio. I was able to make it fully responsive without the help of bootstrap or similar. I know that it is practical to use it and it would make my life much easier but this is a learning experience and I enjoy it more this way for now. I will most likely work with bootstrap in the future. Maybe I am getting too stuck with details, trying to make it perfect. I thought I could finish it today but there's still the contact section left. I will hopefully have more time tomorrow.
 
 **Link to work:** None
+
+### Day 17: January 30, 2021
+
+**Today's Progress**: 
+* Finished my 5th project
+* Received Responsive Design Certification from freeCodeCamp
+
+**Thoughts:** I finally finished the Responsive Web Design curriculum and received the certificate. I can say that I learned a ton about CSS. Also, it feels good to accomplish something. In the end, I am glad I kept going through the whole course instead of just skimming through the lessons and without completing any projects. I consider this my first big accomplishment out of this challenge. Tomorrow, I will keep working through The Odin Project.
+
+**Link to work:** [Personal Portfolio](https://burak-portfolio.herokuapp.com/)
