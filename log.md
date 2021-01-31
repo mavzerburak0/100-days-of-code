@@ -175,3 +175,13 @@
 **Thoughts:** I finally finished the Responsive Web Design curriculum and received the certificate. I can say that I learned a ton about CSS. Also, it feels good to accomplish something. In the end, I am glad I kept going through the whole course instead of just skimming through the lessons and without completing any projects. I consider this my first big accomplishment out of this challenge. Tomorrow, I will keep working through The Odin Project.
 
 **Link to work:** [Personal Portfolio](https://burak-portfolio.herokuapp.com/)
+
+### Day 18: January 31, 2021
+
+**Today's Progress**: 
+* 53% done on The Odin Project Foundations Path
+* Created a Google clone project
+
+**Thoughts:** I am quite comfortable with CSS now. Although, positioning is sometimes bit of an issue. Adding responsiveness to my projects takes a bit more time than I think it should but still I am glad that I can do it without bootstrap or any other library. I am also happy to be back on track with TOD. I am not in rush to finish this path since it teaches valuable skills that will come in handy if I ever want to get a job in this field. I will take the time to finish and learn from the projects.
+
+**Link to work:** [Google Clone](https://google-clone-a.herokuapp.com/)
