@@ -185,3 +185,12 @@
 **Thoughts:** I am quite comfortable with CSS now. Although, positioning is sometimes bit of an issue. Adding responsiveness to my projects takes a bit more time than I think it should but still I am glad that I can do it without bootstrap or any other library. I am also happy to be back on track with TOD. I am not in rush to finish this path since it teaches valuable skills that will come in handy if I ever want to get a job in this field. I will take the time to finish and learn from the projects.
 
 **Link to work:** [Google Clone](https://google-clone-a.herokuapp.com/)
+
+### Day 19: February 1, 2021
+
+**Today's Progress**: 
+* 62% done on The Odin Project Foundations Path
+
+**Thoughts:** Not a very good start to a new month. I spent a very unproductive day today. But at least I got some reading done and learned a bit more about JS. Solved some simple exercises to refresh my knowledge. I hope I can get some project started tomorrow.
+
+**Link to work:** None
