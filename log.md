@@ -194,3 +194,13 @@
 **Thoughts:** Not a very good start to a new month. I spent a very unproductive day today. But at least I got some reading done and learned a bit more about JS. Solved some simple exercises to refresh my knowledge. I hope I can get some project started tomorrow.
 
 **Link to work:** None
+
+### Day 20: February 2, 2021
+
+**Today's Progress**: 
+* 71% done on The Odin Project Foundations Path
+* Created a simple Rock, Paper, Scissors game using JS
+
+**Thoughts:** Even though it can be only be played through the console (for now), it felt nice to be able to complete a small project completely on my own. It may not be the prettiest code but knowing that I can create something out of what I learned throughout the day without any help from outside is an accomplishment for me. Also learned a lot today about JS. I feel like I am getting back on track.
+
+**Link to work:** None
