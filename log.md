@@ -204,3 +204,12 @@
 **Thoughts:** Even though it can be only be played through the console (for now), it felt nice to be able to complete a small project completely on my own. It may not be the prettiest code but knowing that I can create something out of what I learned throughout the day without any help from outside is an accomplishment for me. Also learned a lot today about JS. I feel like I am getting back on track.
 
 **Link to work:** None
+
+### Day 21: February 3, 2021
+
+**Today's Progress**: 
+* 75% done on The Odin Project Foundations Path
+
+**Thoughts:** I started keeping track of the time I am spending on reading and actual coding for this challenge. Today I spent about 85 minutes in total (28 minutes of reading and 57 minutes of coding). Rough numbers but they give me an idea about my progress. I don't want to bury myself in reading material. I am getting a hang of JS pretty quick due to my experience coding in Java and Python. Writing simple algorithms on my own makes me feel a bit better about myself and my coding skills. I would like to finish up the Foundations path until end of this week and dedicate most of my time to actual projects of my own.
+
+**Link to work:** None
