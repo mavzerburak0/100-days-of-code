@@ -213,3 +213,13 @@
 **Thoughts:** I started keeping track of the time I am spending on reading and actual coding for this challenge. Today I spent about 85 minutes in total (28 minutes of reading and 57 minutes of coding). Rough numbers but they give me an idea about my progress. I don't want to bury myself in reading material. I am getting a hang of JS pretty quick due to my experience coding in Java and Python. Writing simple algorithms on my own makes me feel a bit better about myself and my coding skills. I would like to finish up the Foundations path until end of this week and dedicate most of my time to actual projects of my own.
 
 **Link to work:** None
+
+### Day 22: February 4, 2021
+
+**Today's Progress**: 
+* 78% done on The Odin Project Foundations Path
+* 45 minutes of coding, 12 minutes of reading
+
+**Thoughts:** I haven't done much compared to yesterday but still managed to complete my leftover JS exercises and learned a bit about DOM manipulation. Given that I wouldn't even know what DOM was just two days ago, I'd say that's a pretty good progress. Also a lot happened today, so I am glad I can still find some time to code and learn (outside of work). I haven't completed any projects in February yet but I am close.
+
+**Link to work:** None
