@@ -223,3 +223,12 @@
 **Thoughts:** I haven't done much compared to yesterday but still managed to complete my leftover JS exercises and learned a bit about DOM manipulation. Given that I wouldn't even know what DOM was just two days ago, I'd say that's a pretty good progress. Also a lot happened today, so I am glad I can still find some time to code and learn (outside of work). I haven't completed any projects in February yet but I am close.
 
 **Link to work:** None
+
+### Day 23: February 6, 2021
+
+**Today's Progress**: 
+* Add a UI to Rock, Paper, Scissors game
+
+**Thoughts:** I feel like I should learn JS debugging soon as I have no idea where things go wrong when my code isn't working. I spent a fair amount of time trying to get a simple event listener on a button click to work properly. Most of today was spent writing and deleting code. However, I managed to get a somewhat working game at the end. I will try to improve it tomorrow.
+
+**Link to work:** None
