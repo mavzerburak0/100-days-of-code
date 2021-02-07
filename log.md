@@ -228,7 +228,19 @@
 
 **Today's Progress**: 
 * Add a UI to Rock, Paper, Scissors game
+* 120 minutes of coding, 7 minutes of reading 
 
 **Thoughts:** I feel like I should learn JS debugging soon as I have no idea where things go wrong when my code isn't working. I spent a fair amount of time trying to get a simple event listener on a button click to work properly. Most of today was spent writing and deleting code. However, I managed to get a somewhat working game at the end. I will try to improve it tomorrow.
+
+**Link to work:** None
+
+### Day 24: February 7, 2021
+
+**Today's Progress**: 
+* 81% done on TOD Foundations Path
+* Start new project: Etch-a-Sketch
+* 57 minutes of coding 
+
+**Thoughts:** Finally finished the DOM Manipulation section. I was dragging so much behind but I had a quick start to the Etch-a-Sketch project. It is getting harder and harder to progress through as sections get longer and more complicated. I am not in rush but I also don't want to stay stuck in one place for too long.
 
 **Link to work:** None
