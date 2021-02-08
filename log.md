@@ -244,3 +244,12 @@
 **Thoughts:** Finally finished the DOM Manipulation section. I was dragging so much behind but I had a quick start to the Etch-a-Sketch project. It is getting harder and harder to progress through as sections get longer and more complicated. I am not in rush but I also don't want to stay stuck in one place for too long.
 
 **Link to work:** None
+
+### Day 25: February 8, 2021
+
+**Today's Progress**: 
+* Add a drawing feature to Etch-a-Sketch
+
+**Thoughts:** I think I really formed a habit of coding with this challenge. Even in the worst, hectic days I manage to find the time for learning, which makes me really happy. Doing this at around the same time everyday also helps very much. So, I think I will keep at it until I have a nice portfolio even though I might never have to use it. 
+
+**Link to work:** None
