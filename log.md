@@ -253,3 +253,12 @@
 **Thoughts:** I think I really formed a habit of coding with this challenge. Even in the worst, hectic days I manage to find the time for learning, which makes me really happy. Doing this at around the same time everyday also helps very much. So, I think I will keep at it until I have a nice portfolio even though I might never have to use it. 
 
 **Link to work:** None
+
+### Day 26: February 9, 2021
+
+**Today's Progress**: 
+* Improvements on Etch-a-Sketch
+
+**Thoughts:** I can already feel the improvement in my JavaScript abilities. I am able to find solutions to my problems easier, plus I am getting better at debugging my code. I will keep improving on my project a little bit more tomorrow and then publish it on Heroku and I am also thinking about adding it to my portfolio website. Things are going well! :) 
+
+**Link to work:** None
