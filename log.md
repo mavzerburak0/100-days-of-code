@@ -262,3 +262,13 @@
 **Thoughts:** I can already feel the improvement in my JavaScript abilities. I am able to find solutions to my problems easier, plus I am getting better at debugging my code. I will keep improving on my project a little bit more tomorrow and then publish it on Heroku and I am also thinking about adding it to my portfolio website. Things are going well! :) 
 
 **Link to work:** None
+
+### Day 27: February 10, 2021
+
+**Today's Progress**: 
+* 84% done on The Odin Project Foundations Path
+* Finish Etch-a-Sketch project
+
+**Thoughts:** I finished my Etch-a-Sketch project. Although it drove me a bit crazy in the end with grid placement, I checked some other solutions from people and found a one that worked for me in the end. I guess this is always going to be part of the process: copying, adapting and integrating others' code to your own. No need to reinvent the wheel.
+
+**Link to work:** [Etch-a-Sketch](https://magic-screen.herokuapp.com/)
