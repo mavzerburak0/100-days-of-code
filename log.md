@@ -272,3 +272,12 @@
 **Thoughts:** I finished my Etch-a-Sketch project. Although it drove me a bit crazy in the end with grid placement, I checked some other solutions from people and found a one that worked for me in the end. I guess this is always going to be part of the process: copying, adapting and integrating others' code to your own. No need to reinvent the wheel.
 
 **Link to work:** [Etch-a-Sketch](https://magic-screen.herokuapp.com/)
+
+### Day 28: February 11, 2021
+
+**Today's Progress**: 
+* Solve a few javascript exercises: Calculator, Palindromes, Caesar (almost finished)
+
+**Thoughts:** I am starting to get bored but still pulling through the day with a little more than one hour of coding. I guess the fact that I am currently also coding at work has an affect on this. It makes me just want to rest after work with some relaxing activity. I can't wait for the weekend to wind down a little bit.
+
+**Link to work:** None
