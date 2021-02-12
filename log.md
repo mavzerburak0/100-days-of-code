@@ -281,3 +281,13 @@
 **Thoughts:** I am starting to get bored but still pulling through the day with a little more than one hour of coding. I guess the fact that I am currently also coding at work has an affect on this. It makes me just want to rest after work with some relaxing activity. I can't wait for the weekend to wind down a little bit.
 
 **Link to work:** None
+
+### Day 29: February 12, 2021
+
+**Today's Progress**: 
+* 87% done on TOD
+* Finish all JavaScript Exercises from The Odin Project
+
+**Thoughts:** It was definitely the tasks from work that made me tired and bored yesterday. Because today I enjoyed it quite a lot and finished all the exercises that were offered by TOD. I feel more confident about my abilities now. I am excited to start the last project of Foundations path tomorrow.
+
+**Link to work:** None
