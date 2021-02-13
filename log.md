@@ -291,3 +291,12 @@
 **Thoughts:** It was definitely the tasks from work that made me tired and bored yesterday. Because today I enjoyed it quite a lot and finished all the exercises that were offered by TOD. I feel more confident about my abilities now. I am excited to start the last project of Foundations path tomorrow.
 
 **Link to work:** None
+
+### Day 30: February 13, 2021
+
+**Today's Progress**: 
+* Started calculator project
+
+**Thoughts:** I am surprised how fast I got at putting together a project. After reading about the requirements, it took me about 30 minutes to set up the HTML and CSS to make something that looks like a calculator. Then, I started to write JS for functionality and I can already feel much improvement on that end as well. It feels great to see progress. I will try to work more on my project tomorrow. I always felt like I had a jumpy mind but this past month has proven me wrong. I will keep at this challenge for as long as I can, maybe even more than 100 days.  
+
+**Link to work:** None
