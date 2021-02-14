@@ -300,3 +300,13 @@
 **Thoughts:** I am surprised how fast I got at putting together a project. After reading about the requirements, it took me about 30 minutes to set up the HTML and CSS to make something that looks like a calculator. Then, I started to write JS for functionality and I can already feel much improvement on that end as well. It feels great to see progress. I will try to work more on my project tomorrow. I always felt like I had a jumpy mind but this past month has proven me wrong. I will keep at this challenge for as long as I can, maybe even more than 100 days.  
 
 **Link to work:** None
+
+### Day 31: February 14, 2021
+
+**Today's Progress**: 
+* 90% done on TOD Foundations Path
+* Finished my calculator project
+
+**Thoughts:** I finished a fairly intimidating, especially for a beginner developer like me, project in just 3 hours. It may be full of bugs and the logic may not be perfect but I did all by myself, without copying from anybody else. I am getting more and more confident in my abilities. I know I have a long way to go but this has been a great start so far and I intend to keep it going that way.
+
+**Link to work:** [Retro Calc](https://retro-calc.herokuapp.com/)
