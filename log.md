@@ -310,3 +310,15 @@
 **Thoughts:** I finished a fairly intimidating, especially for a beginner developer like me, project in just 3 hours. It may be full of bugs and the logic may not be perfect but I did all by myself, without copying from anybody else. I am getting more and more confident in my abilities. I know I have a long way to go but this has been a great start so far and I intend to keep it going that way.
 
 **Link to work:** [Retro Calc](https://retro-calc.herokuapp.com/)
+
+### Day 32: February 15, 2021
+
+**Today's Progress**: 
+* Finish TOP Foundations Path
+* Brush up JS and design of rock, paper, scissors game
+* Deploy Rock, Paper, Scissors game on Heroku
+
+
+**Thoughts:** The speed and confidence that comes with practice really gives me a boost. I am able to fire up a project really quick. Today I fixed the mistakes I made a couple weeks back while I was building a rock, paper, scissors game. In under an hour, I fixed bugs, shortened the code using a foreach loop and put together a simple design for the game to make it more enjoyable. At this point, I can't get enough. I also decided to stick with my choice of language at the beginning, so I will continue on JavaScript path of The Odin Project. Can't wait to get started tomorrow.  
+
+**Link to work:** [Rock, Paper, Scissors](https://rck-ppr-scssrs.herokuapp.com/)
