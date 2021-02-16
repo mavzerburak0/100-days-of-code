@@ -322,3 +322,15 @@
 **Thoughts:** The speed and confidence that comes with practice really gives me a boost. I am able to fire up a project really quick. Today I fixed the mistakes I made a couple weeks back while I was building a rock, paper, scissors game. In under an hour, I fixed bugs, shortened the code using a foreach loop and put together a simple design for the game to make it more enjoyable. At this point, I can't get enough. I also decided to stick with my choice of language at the beginning, so I will continue on JavaScript path of The Odin Project. Can't wait to get started tomorrow.  
 
 **Link to work:** [Rock, Paper, Scissors](https://rck-ppr-scssrs.herokuapp.com/)
+
+### Day 33: February 16, 2021
+
+**Today's Progress**: 
+* Start TOP JS Path
+* 10% done on TOP JS Path
+* Start Library project
+
+
+**Thoughts:** I had a good start to the new JS path. It is supposed to build on top of the foundations path. I feel like I have a slight advantage since I have been exposed to programming before. However, it still feels good to learn a new language and web development is quite fun. I hope I will be able to finish my library project tomorrow.
+
+**Link to work:** None
