@@ -334,3 +334,13 @@
 **Thoughts:** I had a good start to the new JS path. It is supposed to build on top of the foundations path. I feel like I have a slight advantage since I have been exposed to programming before. However, it still feels good to learn a new language and web development is quite fun. I hope I will be able to finish my library project tomorrow.
 
 **Link to work:** None
+
+### Day 34: February 17, 2021
+
+**Today's Progress**: 
+* Improve on Library project
+
+
+**Thoughts:** My library project is almost finished, it only needs finishing touches. All the logic is there, I even implemented the local storage feature which was optional. It was a tiring day so I am glad I managed to pull through more than an hour of coding. I'll definitely finish my library project tomorrow and move on to new things.
+
+**Link to work:** None
