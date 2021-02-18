@@ -344,3 +344,13 @@
 **Thoughts:** My library project is almost finished, it only needs finishing touches. All the logic is there, I even implemented the local storage feature which was optional. It was a tiring day so I am glad I managed to pull through more than an hour of coding. I'll definitely finish my library project tomorrow and move on to new things.
 
 **Link to work:** None
+
+### Day 35: February 18, 2021
+
+**Today's Progress**: 
+* Finish Library project
+
+
+**Thoughts:** I finished my library project for now. It definitely needs improvements in design but it does what it's supposed to and I didn't want to spend too much time on design details. I will come back to it later to improve the design as well as some features.
+
+**Link to work:** [TOP Library](https://top-libraryy.herokuapp.com/)
