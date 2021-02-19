@@ -354,3 +354,15 @@
 **Thoughts:** I finished my library project for now. It definitely needs improvements in design but it does what it's supposed to and I didn't want to spend too much time on design details. I will come back to it later to improve the design as well as some features.
 
 **Link to work:** [TOP Library](https://top-libraryy.herokuapp.com/)
+
+### Day 36: February 19, 2021
+
+**Today's Progress**: 
+* 15% done on TOP JS Path
+* Learned about factory functions and modules in JS
+* Start Tic-Tac-Toe project
+
+
+**Thoughts:** It felt like I wouldn't be able to pull this Tic-Tac-Toe project off. I thought I didn't know enough but once I spent a little bit of time working on it, ideas started pouring and I was actually able to solve most of the logic without looking anywhere. It really feels like I am getting somewhere with this whole challenge. It started off as an idea to prove to myself that I can actually stick to something till the end but I am learning quite a lot. My problem solving abilities are really starting to show and I feel more confident. The Odin Project is really helpful in a sense that it's not holding my hand during projects. I am glad to be able to stick to it.
+
+**Link to work:** None
