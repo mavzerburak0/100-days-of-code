@@ -366,3 +366,13 @@
 **Thoughts:** It felt like I wouldn't be able to pull this Tic-Tac-Toe project off. I thought I didn't know enough but once I spent a little bit of time working on it, ideas started pouring and I was actually able to solve most of the logic without looking anywhere. It really feels like I am getting somewhere with this whole challenge. It started off as an idea to prove to myself that I can actually stick to something till the end but I am learning quite a lot. My problem solving abilities are really starting to show and I feel more confident. The Odin Project is really helpful in a sense that it's not holding my hand during projects. I am glad to be able to stick to it.
 
 **Link to work:** None
+
+### Day 37: February 20, 2021
+
+**Today's Progress**: 
+* Finish Tic-Tac-Toe project (no design)
+
+
+**Thoughts:** I finished my Tic-Tac-Toe project today even though I am not completely happy with it yet. Some of the logic is dangling, there is no draw check etc. But I think overall I did a pretty good job without much help from external resources. I will work on its design tomorrow and then deploy it.
+
+**Link to work:** None
