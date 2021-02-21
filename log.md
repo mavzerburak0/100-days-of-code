@@ -376,3 +376,14 @@
 **Thoughts:** I finished my Tic-Tac-Toe project today even though I am not completely happy with it yet. Some of the logic is dangling, there is no draw check etc. But I think overall I did a pretty good job without much help from external resources. I will work on its design tomorrow and then deploy it.
 
 **Link to work:** None
+
+### Day 38: February 21, 2021
+
+**Today's Progress**: 
+* 17% done on TOP JS path
+* Submit Tic-Tac-Toe project
+
+
+**Thoughts:** I spent most of today making my code better and fixing the game. I added a check for draw, added design elements. I decided that I will also add my social links in a footer to all my projects from now on. At some point as I learn, I will visit back all my projects and make them better both in code and design.  
+
+**Link to work:** [TIC-TAC-TOE](https://tic-tac-toe-top.herokuapp.com/)
