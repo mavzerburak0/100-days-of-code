@@ -387,3 +387,14 @@
 **Thoughts:** I spent most of today making my code better and fixing the game. I added a check for draw, added design elements. I decided that I will also add my social links in a footer to all my projects from now on. At some point as I learn, I will visit back all my projects and make them better both in code and design.  
 
 **Link to work:** [TIC-TAC-TOE](https://tic-tac-toe-top.herokuapp.com/)
+
+### Day 39: February 22, 2021
+
+**Today's Progress**: 
+* 22% done on TOP JS path
+* Start restaurant page project
+
+
+**Thoughts:** Not the best day in terms of coding but I am glad to have got as much done as I did. I will try and finish my restaurant page project tomorrow.
+
+**Link to work:** None.
