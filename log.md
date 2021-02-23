@@ -398,3 +398,13 @@
 **Thoughts:** Not the best day in terms of coding but I am glad to have got as much done as I did. I will try and finish my restaurant page project tomorrow.
 
 **Link to work:** None.
+
+### Day 40: February 23, 2021
+
+**Today's Progress**: 
+* Improve Restaurant page project
+
+
+**Thoughts:** It is bit of a change of mindset to start using modules as all my projects up to this point have been in plain HTML, CSS and JS. But I am getting used to it. I couldn't finish the project yet but I learned quite a lot so it was a good exercise. 
+
+**Link to work:** None.
