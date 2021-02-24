@@ -408,3 +408,13 @@
 **Thoughts:** It is bit of a change of mindset to start using modules as all my projects up to this point have been in plain HTML, CSS and JS. But I am getting used to it. I couldn't finish the project yet but I learned quite a lot so it was a good exercise. 
 
 **Link to work:** None.
+
+### Day 41: February 24, 2021
+
+**Today's Progress**: 
+* Improve Restaurant page project
+
+
+**Thoughts:** I realized I understood the task quite wrong in the first place and that's why I have been struggling. Now that I looked at some of other people's projects and saw how they are structured, I understand what I have to do. This small project has been dragging for too long, so I'd like to spend more time on it tomorrow and get it done.
+
+**Link to work:** None.
