@@ -418,3 +418,13 @@
 **Thoughts:** I realized I understood the task quite wrong in the first place and that's why I have been struggling. Now that I looked at some of other people's projects and saw how they are structured, I understand what I have to do. This small project has been dragging for too long, so I'd like to spend more time on it tomorrow and get it done.
 
 **Link to work:** None.
+
+### Day 42: February 25, 2021
+
+**Today's Progress**: 
+* Finish Restaurant page JS part
+
+
+**Thoughts:** Finally I made the tabbing work using modules. It feels quite powerful to be able to export and import functions from other javascript files. The code feels a lot more organized. I would have liked to add styling and finish the project completely today but there is no rush. It was just starting to get a little boring but figuring out the use of modules made me forget about it.  
+
+**Link to work:** None.
