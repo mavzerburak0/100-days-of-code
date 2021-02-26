@@ -428,3 +428,14 @@
 **Thoughts:** Finally I made the tabbing work using modules. It feels quite powerful to be able to export and import functions from other javascript files. The code feels a lot more organized. I would have liked to add styling and finish the project completely today but there is no rush. It was just starting to get a little boring but figuring out the use of modules made me forget about it.  
 
 **Link to work:** None.
+
+### Day 43: February 26, 2021
+
+**Today's Progress**: 
+
+* Finish Restaurant page project
+
+
+**Thoughts:** I finished the styling of my restaurant page project. It doesn't look very pretty but that's not the point for this project anyway. I couldn't deploy it to Heroku as I often do as this is now a Node application rather than PHP application. I will figure it out tomorrow and finally move on to new sections.
+
+**Link to work:** None.
