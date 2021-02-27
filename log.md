@@ -439,3 +439,16 @@
 **Thoughts:** I finished the styling of my restaurant page project. It doesn't look very pretty but that's not the point for this project anyway. I couldn't deploy it to Heroku as I often do as this is now a Node application rather than PHP application. I will figure it out tomorrow and finally move on to new sections.
 
 **Link to work:** None.
+
+### Day 44: February 27, 2021
+
+**Today's Progress**: 
+
+* 27% done on TOP JS Path
+* Deploy restaurant page project
+* Start Todo List project
+
+
+**Thoughts:** Even though it didn't feel like it, I have done quite a lot today. Starting with deploying my latest application, I read and learned about OOP concepts in JS and then had a good start to my Todo List project. Already starting to see some concrete results in an hour makes me feel accomplished.
+
+**Link to work:** [Top Pancakes](https://top-pancakes.herokuapp.com/)
