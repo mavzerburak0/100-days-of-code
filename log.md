@@ -452,3 +452,14 @@
 **Thoughts:** Even though it didn't feel like it, I have done quite a lot today. Starting with deploying my latest application, I read and learned about OOP concepts in JS and then had a good start to my Todo List project. Already starting to see some concrete results in an hour makes me feel accomplished.
 
 **Link to work:** [Top Pancakes](https://top-pancakes.herokuapp.com/)
+
+### Day 45: February 28, 2021
+
+**Today's Progress**: 
+
+* Improve To-Do list project
+
+
+**Thoughts:** The more I work with DOM-related stuff, the more I feel like there needs to be an easier way to generate all this. I am sure all these frameworks out there will make my life much easier and I can't wait to learn about them. Fortunately, React JS section is coming up soon.
+
+**Link to work:** None
