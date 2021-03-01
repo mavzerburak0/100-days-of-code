@@ -463,3 +463,14 @@
 **Thoughts:** The more I work with DOM-related stuff, the more I feel like there needs to be an easier way to generate all this. I am sure all these frameworks out there will make my life much easier and I can't wait to learn about them. Fortunately, React JS section is coming up soon.
 
 **Link to work:** None
+
+### Day 46: March 1, 2021
+
+**Today's Progress**: 
+
+* Improve To-Do list project
+
+
+**Thoughts:** It feels like this will be my longest and most complicated project yet. However I am confident that I will finish it this week and I am surprised that everything goes well without many issues. I guess it shows that I am learning and improving day by day. 
+
+**Link to work:** None
