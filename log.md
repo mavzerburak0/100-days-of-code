@@ -474,3 +474,14 @@
 **Thoughts:** It feels like this will be my longest and most complicated project yet. However I am confident that I will finish it this week and I am surprised that everything goes well without many issues. I guess it shows that I am learning and improving day by day. 
 
 **Link to work:** None
+
+### Day 47: March 2, 2021
+
+**Today's Progress**: 
+
+* Improve To-Do list project logic
+
+
+**Thoughts:** The code I write feels a bit sloppy at this point. But after I finish coding the logic of the app, I want to do major refactoring, extract smaller functions for DOM and array manipulation. Maybe even a separate module. I am glad I got everything working, though. 
+
+**Link to work:** None
