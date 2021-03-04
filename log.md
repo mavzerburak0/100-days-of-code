@@ -485,3 +485,14 @@
 **Thoughts:** The code I write feels a bit sloppy at this point. But after I finish coding the logic of the app, I want to do major refactoring, extract smaller functions for DOM and array manipulation. Maybe even a separate module. I am glad I got everything working, though. 
 
 **Link to work:** None
+
+### Day 48: March 4, 2021
+
+**Today's Progress**: 
+
+* Improve To-Do list project logic
+
+
+**Thoughts:** This application definitely needs some refactoring as I find myself copying and pasting code from inside the same module. I will spend tomorrow to extract smaller functions in view.js. 
+
+**Link to work:** None
