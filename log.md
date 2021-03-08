@@ -496,3 +496,14 @@
 **Thoughts:** This application definitely needs some refactoring as I find myself copying and pasting code from inside the same module. I will spend tomorrow to extract smaller functions in view.js. 
 
 **Link to work:** None
+
+### Day 49: March 8, 2021
+
+**Today's Progress**: 
+
+* Refactor To-Do list project
+
+
+**Thoughts:** I had to take a 3-day break from coding as I had to move to another country. Getting back on track certainly isn't easy but I am almost halfway there and I don't want to just give up here. Fortunately, I haven't forgotten much and could continue my project with ease. Started refactoring some parts of my code and it already looks much cleaner and understandable. Will continue tomorrow to refactor. There are still some parts where I have to improve the logic. Then, I will start styling.
+
+**Link to work:** None
