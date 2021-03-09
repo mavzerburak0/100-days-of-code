@@ -507,3 +507,15 @@
 **Thoughts:** I had to take a 3-day break from coding as I had to move to another country. Getting back on track certainly isn't easy but I am almost halfway there and I don't want to just give up here. Fortunately, I haven't forgotten much and could continue my project with ease. Started refactoring some parts of my code and it already looks much cleaner and understandable. Will continue tomorrow to refactor. There are still some parts where I have to improve the logic. Then, I will start styling.
 
 **Link to work:** None
+
+### Day 50: March 9, 2021
+
+**Today's Progress**: 
+
+* Finish refactoring To-Do list project code
+
+
+**Thoughts:** Finally finished refactoring my code and it looks much better. I also fixed a couple of issues I found here and there. There are a still a few things left but I will start styling tomorrow and hopefully solve those issues as well. This project taught me quite a lot.
+
+**Link to work:** None
+
