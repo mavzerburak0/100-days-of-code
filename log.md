@@ -519,3 +519,14 @@
 
 **Link to work:** None
 
+### Day 51: March 10, 2021
+
+**Today's Progress**: 
+
+* Refactor To-Do and Project modules for cleaner factory functions
+* Implement localStorage for To-Do app
+
+
+**Thoughts:** Focusing on and implementing small improvements everyday really helps me learn the details of JS. I will wrap this project up soon but it definitely will be a reference point for many other projects to come. 
+
+**Link to work:** None
