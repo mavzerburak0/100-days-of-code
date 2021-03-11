@@ -530,3 +530,15 @@
 **Thoughts:** Focusing on and implementing small improvements everyday really helps me learn the details of JS. I will wrap this project up soon but it definitely will be a reference point for many other projects to come. 
 
 **Link to work:** None
+
+### Day 52: March 11, 2021
+
+**Today's Progress**: 
+
+* Fix minor bugs in To-Do list app
+
+
+**Thoughts:** People are right when they say most of coding is debugging and reading other people's code. However, I quite enjoy the process of finding and fixing minor mistakes I made, the sloppy code I have written. It is really satisfying to write one line of code that does exactly the same thing as its predecessor of ten lines. Makes the code more elegant. 
+
+**Link to work:** None
+
