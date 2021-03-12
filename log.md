@@ -542,3 +542,14 @@
 
 **Link to work:** None
 
+### Day 53: March 12, 2021
+
+**Today's Progress**: 
+
+* Add new features to To-Do list app
+
+
+**Thoughts:** I really like adding small details to my application. But I feel like I have been dragging this for a little bit too long. So my goal is to try and finish it this weekend. 
+
+**Link to work:** None
+
