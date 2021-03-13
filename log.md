@@ -553,3 +553,15 @@
 
 **Link to work:** None
 
+### Day 54: March 13, 2021
+
+**Today's Progress**: 
+
+* Finish up functionality for To-Do list app
+* Start styling of To-Do list app
+
+
+**Thoughts:** Over 4 hours of coding today. Setting a goal to finish my application during the weekend really gave me a productivity boost. I added pretty much all functionalities I wanted from the beginning. It is turning out to be a nice little to-do app. I might even use it for my personal goals.
+
+**Link to work:** None
+
