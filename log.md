@@ -565,3 +565,14 @@
 
 **Link to work:** None
 
+### Day 55: March 14, 2021
+
+**Today's Progress**: 
+
+* Finish styling To-Do list app
+
+
+**Thoughts:** I finally finished my to-do list app. But I am too tired to work on deploying it. I am happy with the way it turned out. I realized a few little bugs here and there and will fix them and deploy the app tomorrow. 
+
+**Link to work:** None
+
