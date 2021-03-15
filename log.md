@@ -576,3 +576,16 @@
 
 **Link to work:** None
 
+### Day 56: March 15, 2021
+
+**Today's Progress**: 
+
+* 30% done on TOP JS Path
+* Deploy To-Do list app
+
+
+**Thoughts:** I gave myself an easy day after ~6 hours of coding during the weekend to finish my to-do list application. I mostly worked on fixing the errors in deployment such as not being able to serve some static files. A rough calculation says I spent around 18.5 hours working on this application. Not even a full day and I built a complete application. Even though I must admit the code isn't perfect, I still feel a little accomplished.
+
+**Link to work:** [Schedo](https://schedo.herokuapp.com)
+
+
