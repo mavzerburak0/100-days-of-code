@@ -588,4 +588,16 @@
 
 **Link to work:** [Schedo](https://schedo.herokuapp.com)
 
+### Day 57: March 16, 2021
+
+**Today's Progress**: 
+
+* 32% done on TOP JS Path
+* Lint and prettify To-Do list app code
+* Create a simple hide-show menu design
+
+
+**Thoughts:** It feels like I haven't done much today regarding web development but it was actually quite a productive day. I understood what linting and code formatting is a little bit better and applied them on my own project using ESLint and Prettifier. Also, started with little projects to improve my JS. I am getting quite comfortable with vanilla JS, however I still feel like I am missing some core concepts. Taking baby steps due to work but I am getting there slowly. Seeing what started as a personal development project turn into a lifelong skill feels great.
+
+**Link to work:** None
 
