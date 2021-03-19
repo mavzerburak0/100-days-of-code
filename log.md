@@ -601,3 +601,15 @@
 
 **Link to work:** None
 
+### Day 58: March 17, 2021
+
+**Today's Progress**: 
+
+* 35% done on TOP JS Path
+* Create basic form application
+
+
+**Thoughts:** I am losing the excitement that I felt towards this challenge in the last 2-3 days. It could be because they were really tiring. Hoping to get back on track this weekend.
+
+**Link to work:** None
+
