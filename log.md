@@ -613,3 +613,15 @@
 
 **Link to work:** None
 
+### Day 59: March 18, 2021
+
+**Today's Progress**: 
+
+* 42% done on TOP JS Path
+* Make to-do list application responsive
+
+
+**Thoughts:** After a short burnout break, I am back to reading and coding. Started with easy tasks today, learned about some features of JS. Also made my to-do application responsive. It works fine on most mobile devices.
+
+**Link to work:** [Schedo](https://schedo.herokuapp.com)
+
