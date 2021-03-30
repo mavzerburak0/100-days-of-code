@@ -613,7 +613,7 @@
 
 **Link to work:** None
 
-### Day 59: March 18, 2021
+### Day 59: March 27, 2021
 
 **Today's Progress**: 
 
@@ -624,4 +624,17 @@
 **Thoughts:** After a short burnout break, I am back to reading and coding. Started with easy tasks today, learned about some features of JS. Also made my to-do application responsive. It works fine on most mobile devices.
 
 **Link to work:** [Schedo](https://schedo.herokuapp.com)
+
+### Day 60: March 30, 2021
+
+**Today's Progress**: 
+
+* 45% done on TOP JS Path
+* Fix responsiveness issues in to-do list application
+
+
+**Thoughts:** Today was the first day where I spent more time reading than coding. TOP has many sections without a big project at where I currently am, but I am almost there and will spend tomorrow to try and finish up reading. I am slowly getting back on track. Hoping to get a streak again these days. I am finding my excitement towards learning JS back.
+
+**Link to work:** None
+
 
